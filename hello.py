@@ -3,4 +3,5 @@ print("Hello All...")
 print("I am the python script")
 time.sleep(10)
 print("Bye All...")
-
+print("Hello All...")
+print("Bye All...")
